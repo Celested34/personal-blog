@@ -1,0 +1,22 @@
+@import "styles.css";
+
+ 
+.navbar {
+  display: grid;
+  overflow: hidden; 
+  background-color: #696969; 
+}
+
+.navbar a{
+  display: block; 
+  color: white; 
+  text-align: center; 
+  padding: 10px 17px; 
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+

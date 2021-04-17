@@ -1,0 +1,82 @@
+@import "card.css";
+@import "header.css";
+@import "navbar.css";
+
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+@media screen and (max-width: 700px) {
+  .row {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .navbar a {
+    float: none;
+    width: 100%;
+  }
+}
+
+.about{
+  text-align: center;
+}
+
+.contact{
+  text-align: center;
+}
+
+.column {
+  display: grid;
+  float: center;
+  width: 45%;
+  padding: 0 10 10 0px;
+}
+
+.title{
+  color: black; 
+}
+
+.list{
+  font-style: italic;
+  font-size: 20px;
+}
+
+.list{
+  display: inline-grid;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-facebook {
+  background: darkblue;
+  color: white;
+}
+
+.fa-twitter {
+  background: skyblue;
+  color: white;
+}
+
+.fa-linkedin {
+  background: blue;
+  color: white;
+}
+
+
+
+

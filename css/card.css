@@ -1,0 +1,22 @@
+@import "styles.css";
+
+.card {
+  margin: 10px;
+}
+
+.container {
+  padding: 0 10px;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.button {
+  border: none;
+  display: block;
+  padding: 8px;
+  background-color: grey;
+  text-align: left;
+  width: 100%;
+  color: white;
+}
