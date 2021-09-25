@@ -61,6 +61,11 @@ html {
   text-decoration: none;
 }
 
+.contact{
+  text-align: center;
+}
+
+/* <!-- Social Media --> */
 .fa-facebook {
   background: darkblue;
   color: white;
