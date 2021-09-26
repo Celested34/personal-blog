@@ -5,18 +5,28 @@
   display: grid;
   overflow: hidden; 
   background-color: #696969; 
-}
+} 
 
-.navbar a{
+/* .navbar {
   display: block; 
   color: white; 
   text-align: center; 
   padding: 10px 17px; 
-}
+} */
 
 
-.row {
-  display: flex;
-  flex-wrap: wrap;
-}
+/* .navbar {
+  display: inline;
+  overflow: hidden;
+}   */
+
+.section {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}  
+
+/* .navbar  {
+  display: inline;
+} */
 
