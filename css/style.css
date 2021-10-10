@@ -25,7 +25,7 @@ html {
   }
 }
 
-.about{
+.about, .contact, .cert, .languages{
   text-align: center;
 }
 
