@@ -1,11 +1,11 @@
-@import "style.css";
+/* @import "style.css"; */
 
  
-.navbar {
+/* .navbar {
   display: grid;
   overflow: hidden; 
-  background-color: #696969; 
-} 
+  /* background-color: #696969;  */
+}  */
 
 /* .navbar {
   display: block; 
@@ -20,11 +20,11 @@
   overflow: hidden;
 }   */
 
-.section {
+/* .section {
   list-style-type: none;
   margin: 0;
   padding: 0;
-}  
+}   */
 
 /* .navbar  {
   display: inline;

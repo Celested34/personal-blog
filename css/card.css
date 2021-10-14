@@ -1,0 +1,14 @@
+@import "style.css";
+
+
+.container {
+  background-color: white;
+  opacity: 0.8;
+  color: black;
+  border-style: inset;
+  border: 5px solid;
+  padding: 20px;
+  margin: 50px;
+  border-image: linear-gradient(45deg, navy, gold) 1;
+  display: grid;
+}
