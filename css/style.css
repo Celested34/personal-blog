@@ -10,10 +10,10 @@ html {
 }
 
 body {
-  background-color: #6495ED;
+  background-color: white;
 }
 
-/* Mobile */
+<!-- Mobile --!>
 @media screen and (max-width: 700px) {
   .row {
     flex-direction: column;
@@ -60,9 +60,9 @@ body {
 }
 
 
-/* <!-- Social Media --> */
-.fa-facebook {
-  background: darkblue;
+<!-- Social Media -->
+.fa-github {
+  background: black;
   color: white;
 }
 
